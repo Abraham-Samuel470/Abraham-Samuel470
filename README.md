@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel K
+# 👋 Hi, I'm Samuel , but you can call me Sam
 
 🎓 B.Tech Graduate | 💡 Maker | 🧠 AI + Embedded Enthusiast | 🔧 VLSI | 💻 Python & Verilog Coder
 
@@ -26,7 +26,7 @@
 
 ## 🧠 Projects
 
-🚀 **[Jarvis - AI Voice Assistant](https://github.com/Abraham-Samuel470)**  
+🚀 **[Jarvis - AI Voice Assistant]**  
 Voice-controlled assistant with TTS, app control, GPT integration, and hardware I/O.
 
 🎮 **ESP32 Gaming Console**  
@@ -34,15 +34,6 @@ Retro-style games like Dino, Pong, Flappy Bird with buzzer and menu system.
 
 🧪 **Hand-Sign Traffic Detector**  
 Python + Arduino powered real-time hand gesture-based traffic control system.
-
-📊 **Parkinson's Detection Dashboard**  
-A full-stack dashboard to monitor and visualize symptoms using wearable sensor data.
-
-👥 **People Counter with Thermal Sensor**  
-Using MLX90614 and ESP32 to count people in smart environments.
-
-🌿 **Air & Water Quality Monitor**  
-Integrated display system for pollution, fire, humidity, and weather data.
 
 📅 **Face-Recognition Attendance System**  
 Python + Arduino project using OpenCV, RTC, MySQL, and LCD display.
@@ -59,8 +50,8 @@ Python + Arduino project using OpenCV, RTC, MySQL, and LCD display.
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📧 samuel.yourmail@example.com
-- 🌐 Portfolio Website (Coming Soon...)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/abraham-samuel470/))
+- 📧 samuak2004@gmail.com
+- 🌐 Portfolio Website([https://](https://abrahamsamuel470.netlify.app/))
 
 ---
