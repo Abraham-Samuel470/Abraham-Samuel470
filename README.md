@@ -52,6 +52,6 @@ Python + Arduino project using OpenCV, RTC, MySQL, and LCD display.
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/abraham-samuel470/))
 - 📧 samuak2004@gmail.com
-- 🌐 [Portfolio Website](https://abrahamsamuel470.netlify.app/)
+- 🌐 [My Portfolio Website](https://abrahamsamuel470.netlify.app/)
 
 ---
