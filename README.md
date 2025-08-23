@@ -23,8 +23,6 @@
 ---
 
 ## 🧰 Skills + Projects + Stats + Contact (All-in-One)  
-
-```css
 Languages:   Python ⚡ C ⚡ Verilog ⚡ HTML/CSS  
 Tools:       Arduino ✦ ESP32 ✦ KiCad ✦ OpenCV ✦ MediaPipe ✦ TinyLlama ✦ Ollama  
 Cloud:       Netlify ✦ GitHub Pages ✦ VS Code ✦ Tinkercad  
