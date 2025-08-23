@@ -17,7 +17,7 @@
 
 ## 🧰 Skills
 
-- **Languages:** Python, C, Verilog, HTML/CSS
+- **Languages:** Python, C/C++, Verilog, HTML/CSS
 - **Tools & Tech:** Arduino, ESP32, KiCad, OpenCV, MediaPipe, OpenAI, Ollama, TinyLlama
 - **Cloud & Platforms:** Netlify, GitHub Pages, VS Code, Tinkercad
 - **Soft Skills:** Public Speaking, Team Leadership, Fast Learner
