@@ -9,7 +9,7 @@
 - 🛠️ I build cool stuff with Python, Verilog, Arduino & ESP32
 - 🧠 Interested in AI, Embedded Systems, VLSI, and Smart Devices
 - 🗣️ I love teaching and inspiring students about TinyLlama, Ollama & GenAI
-- ✍️ I write research papers and work on real-world electronics + AI integration
+- ✍️ I wrote research paper and work on real-world electronics + AI integration
 - 🎤 Anchored events & won 1st prize in project expos
 - 🔍 Always learning and exploring new tech
 
