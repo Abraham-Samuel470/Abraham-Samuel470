@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Samuel , but you can call me Sam
 
 🎓 B.Tech Graduate | 💡 Maker | 🧠 AI + Embedded Enthusiast | 🔧 VLSI | 💻 Python & Verilog Coder
-
 ---
 
 ## 🚀 About Me
