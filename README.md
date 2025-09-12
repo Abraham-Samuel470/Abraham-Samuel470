@@ -1,61 +1,58 @@
-👋 Hi, I'm Samuel, but you can call me Sam
-https://i.imgur.com/examplebanner.png
+# 👋 Hi, I'm Samuel , but you can call me Sam
 
-<div align="center"> <img src="https://i.imgur.com/onepiece.png" alt="One Piece" width="80" height="80"> <img src="https://i.imgur.com/naruto.png" alt="Naruto" width="80" height="80"> <img src="https://i.imgur.com/dragonballz.png" alt="Dragon Ball Z" width="80" height="80"> </div>
 🎓 B.Tech Graduate | 💡 Maker | 🧠 AI + Embedded Enthusiast | 🔧 VLSI | 💻 Python & Verilog Code
 
-🎌 The Ninja Way: About Me
-🛠️ I build cool tech... just like a ninja forges new tools with Python, Verilog, Arduino & ESP32
+---
 
-🧠 Training in the arts of AI, Embedded Systems, VLSI, and Smart Devices
+## 🚀 About Me
 
-🎥 Completed a freelance mission designing posters and brand promotional videos
+- 🛠️ I build cool stuff with Python, Verilog, Arduino & ESP32
+- 🧠 Interested in AI, Embedded Systems, VLSI, and Smart Devices
+- 🎥 I did a freenlance for a firm where I designed a poster and made a brand promotional video
+- 🗣️ I love teaching and inspiring students about TinyLlama, Ollama & GenAI
+- ✍️ I wrote research paper and work on real-world electronics + AI integration
+- 🎤 Anchored events & won 1st prize in project expos
+- 🔍 Always learning and exploring new tech
 
-🗣️ Teaching the next generation about TinyLlama, Ollama & GenAI techniques
+---
 
-✍️ Authored secret scrolls (research papers) on electronics + AI integration
+## 🧰 Skills
 
-🎤 Master of ceremonies and winner of 1st prize in project expos
+- **Languages:** Python, C/C++, Verilog, HTML/CSS
+- **Tools & Tech:** Arduino, ESP32, KiCad, OpenCV, MediaPipe, OpenAI, Ollama, TinyLlama
+- **Cloud & Platforms:** Netlify, GitHub Pages, VS Code, Tinkercad
+- **Soft Skills:** Public Speaking, Team Leadership, Fast Learner
+  
+---
 
-🔍 Always on a journey to discover new techniques and technologies
+## 🧠 Projects
 
-📜 Jutsu Scrolls: My Skills
-Combat Languages: Python, C/C++, Verilog, HTML/CSS
+🚀 **[Jarvis - AI Voice Assistant]**  
+Voice-controlled assistant with TTS, app control, GPT integration, and hardware I/O.
 
-Tools & Weapons: Arduino, ESP32, KiCad, OpenCV, MediaPipe, OpenAI, Ollama, TinyLlama
-
-Cloud Dojos: Netlify, GitHub Pages, VS Code, Tinkercad
-
-Special Techniques: Public Speaking, Team Leadership, Fast Learning
-
-🏰 Mission Log: Projects
-🚀 [Jarvis - AI Voice Assistant]
-Voice-controlled companion with TTS, app control, GPT integration, and hardware I/O.
-
-🎮 ESP32 Gaming Console
+🎮 **ESP32 Gaming Console**  
 Retro-style games like Dino, Pong, Flappy Bird with buzzer and menu system.
 
-🧪 Hand-Sign Traffic Detector
+🧪 **Hand-Sign Traffic Detector**  
 Python + Arduino powered real-time hand gesture-based traffic control system.
 
-📅 Face-Recognition Attendance System
+📅 **Face-Recognition Attendance System**  
 Python + Arduino project using OpenCV, RTC, MySQL, and LCD display.
 
-📊 Mission Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Abraham-Samuel470&show_icons=true&theme=react&hide_border=true
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Samuel470&layout=compact&theme=react&hide_border=true
+## 📈 GitHub Stats
 
-</div>
-🐦 Send a Messenger Hawk!
-💼 LinkedIn
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraham-Samuel470&show_icons=true&theme=react)
 
-📧 samuak2004@gmail.com https://i.imgur.com/examplegif.gif
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Samuel470&layout=compact&theme=react)
 
-🌐 My Portfolio Website
+---
 
-<div align="center">
-https://i.imgur.com/examplelargegif.gif
+## 📫 Let's Connect!
 
-</div>
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/abraham-samuel470/))
+- 📧 samuak2004@gmail.com
+- 🌐 [My Portfolio Website](https://abrahamsamuel470.netlify.app/)
+
+---
