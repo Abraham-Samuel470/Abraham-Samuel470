@@ -56,8 +56,10 @@
 - 💼 **[LinkedIn](https://www.linkedin.com/in/abraham-samuel470/)**
 - 📧 **sanuak2004@gmail.com**
 - 🌐 **[My Portfolio Website](https://abrahamsamuel470.netlify.app/)**
-- <img src="https://i.imgur.com/vHq0b1v.png" alt="Anime Character GIF" width="50" style="vertical-align: middle;"/>
-
+- 
+<div align="center">
+  <img src="https://i.imgur.com/vHq0b1v.png" alt="Anime Character GIF" width="50" style="vertical-align: middle;"/>
+</div>
 ---
 
 <div align="center">
