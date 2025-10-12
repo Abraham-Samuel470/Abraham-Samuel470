@@ -13,7 +13,6 @@
 - ✍️ I wrote research paper and work on real-world electronics + AI integration
 - 🎤 Anchored events & won 1st prize in project expos
 - 🔍 Always learning and exploring new tech
-- 
 ---
 
 ## 🧰 Skills
