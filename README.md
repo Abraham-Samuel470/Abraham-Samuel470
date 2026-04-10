@@ -6,6 +6,7 @@
 
 ## 🚀 About Me
 - 🛠️ I build cool stuff with Python, Verilog, Arduino & ESP32
+- ✍️ Won the Best Research Paper Award 2026 under Springer (Scopus Indexed)
 - 🧠 Interested in AI, Embedded Systems, VLSI, and Smart Device
 - 🎥 I did a freenlance for a firm where I designed a poster and made a brand promotional video
 - 🗣️ I love teaching and inspiring students about TinyLlama, Ollama & GenAI
